@@ -1,0 +1,14 @@
+
+
+body {
+    height: 800px;
+    width: 800px;
+}
+
+
+
+div {
+    width: 50%;
+    height: 50%;
+    background: red;
+}
